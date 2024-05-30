@@ -1,4 +1,4 @@
-# Dynamic-Height-Measurement
+# Dynamic Height Measurement
 
 ## Overview
 
